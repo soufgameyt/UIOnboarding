@@ -3,10 +3,10 @@
     {
       "identity" : "uionboarding",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/lascic/UIOnboarding.git",
+      "location" : "https://github.com/soufgameyt/UIOnboarding.git",
       "state" : {
         "branch" : "main",
-        "revision" : "84ac395bc58893ca524fa11265482e71768142f6"
+        "revision" : "efd1e944c399de24c10d9f4947301e1c105dbb9b"
       }
     }
   ],
